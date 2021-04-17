@@ -17,3 +17,4 @@
 
 ### Test via cURL:
     curl -X GET "http://localhost:5000/myservice?word=hello"
+hello
